@@ -1,2 +1,3 @@
-# class3
+# class3.md
+
 class new page
