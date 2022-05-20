@@ -14,5 +14,40 @@ Table Of Content
 <https://github.com/BURstep/reading-notes/blob/da9bee7fa419c36a70d607b7a017eb97aad5c9ad/class2.md>
 
 3.Class 3 Git
+(https://github.com/BURstep/read3class)
 
+
+
+    
+      
+    
+
+      
+    
+
+      
+    
+
+    
+
+
+    
+
+    
+
+    
+      
+        In this repository
+      
+      
+        All GitHub
+      
+      ↵
+    
+
+
+    
+      Jump to
+      ↵
+    
 
