@@ -12,3 +12,7 @@ Table Of Content
 
 2.Class 2 Text Editor
 <https://github.com/BURstep/reading-notes/blob/da9bee7fa419c36a70d607b7a017eb97aad5c9ad/class2.md>
+
+3.Class 3 Git
+
+
