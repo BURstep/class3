@@ -6,7 +6,8 @@ class new page
 This website is a collection of class 1-3 assignments
 
 Table Of Content
-1.Class 1 REading-notes
+
+1.Class 1 Reading-notes
 (<https://github.com/BURstep/reading-notes/blob/main/README.md)ADME.mdREADME.md>
 
 2.Class 2 Text Editor
